@@ -1,1 +1,1 @@
-ghcr.io/ggerganov/whisper.cpp:main-cuda-5caa19240d55bfd6ee316d50fbad32c6e9c39528
+maven:3.8.6-openjdk-11
